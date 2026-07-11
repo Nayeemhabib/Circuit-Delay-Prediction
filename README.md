@@ -29,21 +29,7 @@ using supervised machine learning models.
 - Python  
 - scikit-learn  
 - pandas, numpy  
-- matplotlib
-
-## Project Structure
-
-circuit-delay-prediction/
- src/
-  metrics.py
-  models.py
-  train.py
-  utils.py
- data/
-  data.csv
- results/
- requirements.txt
- README.md
+- matplotlib.
 # Final Result Output:-
 ### Circuit Diagram:-
 ![Home](Circuit_Diagram.jpeg/Circuit Diagram.png)
