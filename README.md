@@ -30,7 +30,6 @@ using supervised machine learning models.
 - scikit-learn  
 - pandas, numpy  
 - matplotlib.
-- 
 # Final Result Output:-
 
 ### Circuit Diagram:-
