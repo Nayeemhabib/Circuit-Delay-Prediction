@@ -30,10 +30,13 @@ using supervised machine learning models.
 - scikit-learn  
 - pandas, numpy  
 - matplotlib.
+- 
 # Final Result Output:-
+
 ### Circuit Diagram:-
-![Home](Circuit_Diagram.jpeg/Circuit Diagram.png)
-### FinalResult:-
-| Result3V | Result4V | Result 5V |
-|-------|--------|--------|
-| ![Result3V](Result3V/FinalResult.png) | ![Result4V](Result4V/FinalResult.png) |
+![Circuit Diagram](Circuit_Diagram.jpeg)
+
+### Final Result:-
+| Result3V | Result4V | Result5V |
+|----------|----------|----------|
+| ![Result3V](Result3V.jpeg) | ![Result4V](Result4V.jpeg) | ![Result5V](Result5V.jpeg) |
