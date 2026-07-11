@@ -44,7 +44,9 @@ circuit-delay-prediction/
  results/
  requirements.txt
  README.md
-
+# Final Result Output:-
+### Circuit Diagram
+![Home](Circuit_Diagram.Jpeg/Circuit Diagram.png)
 ## How to Run
 ```bash
 pip install -r requirements.txt  
