@@ -45,9 +45,9 @@ circuit-delay-prediction/
  requirements.txt
  README.md
 # Final Result Output:-
-### Circuit Diagram
-![Home](Circuit_Diagram.Jpeg/Circuit Diagram.png)
-## How to Run
-```bash
-pip install -r requirements.txt  
-python src/train.py
+### Circuit Diagram:-
+![Home](Circuit_Diagram.jpeg/Circuit Diagram.png)
+### FinalResult:-
+| Result3V | Result4V | Result 5V |
+|-------|--------|--------|
+| ![Result3V](Result3V/FinalResult.png) | ![Result4V](Result4V/FinalResult.png) |
